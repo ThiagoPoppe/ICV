@@ -1,0 +1,23 @@
+Best loss (LeNet): 1.3035138271331788
+Best acc (LeNet): 0.6469
+Best hyperparams (LeNet): [0.01, 30, 64]
+
+
+Best loss (MyFirstNN): 1.4422114492416382
+Best acc (LeMyFirstNN): 0.4824
+Best hyperparams (MyFirstNN): [0.01, 30, 128]
+
+
+Best loss (MySecondNN): 1.4048347076416015
+Best acc (MySecondNN): 0.5078
+Best hyperparams (MySecondNN): [0.01, 30, 64]
+
+
+Best loss (MyFirstCNN): 1.496409277153015
+Best acc (MyFirstCNN): 0.6365
+Best hyperparams (MyFirstCNN): [0.01, 30, 64]
+
+
+Best loss (MySecondCNN): 1.0767598135948182
+Best acc (MySecondCNN): 0.6663
+Best hyperparams (MySecondCNN): [0.01, 30, 64]
